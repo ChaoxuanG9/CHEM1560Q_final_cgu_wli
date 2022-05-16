@@ -1,0 +1,20 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 5146001
+##  Job Name : additives
+##  Nodelist : node1319
+##      CPUs : 8
+##   Mem/CPU : 2048 MB
+## Directory : /gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7
+##   Job Started : Mon May 16 18:20:33 EDT 2022
+###############################################################################
+Mon May 16 18:20:33 EDT 2022
+/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7
+given filepaths: ['/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp0/out.txt', '/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp1/out.txt', '/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp2/out.txt', '/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp3/out.txt', '/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp4/out.txt', '/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp5/out.txt', '/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp6/out.txt']
+path to min energy file: /gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp4/out.txt
+reached end
+Gaussian standard output converted to xyz file !!!
+/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/opt_inp
+Mon May 16 18:20:33 EDT 2022
+Mon May 16 18:47:40 EDT 2022
+001 00:27:07
+Mon May 16 18:47:40 EDT 2022

@@ -1,0 +1,6 @@
+#Free energy of the original molecule:
+ Sum of electronic and thermal Free Energies=         -419.585644
+#Free energy of the original complex:
+ Sum of electronic and thermal Free Energies=         -427.030851
+#Free energy of the reduced complex:
+ Sum of electronic and thermal Free Energies=         -427.164363

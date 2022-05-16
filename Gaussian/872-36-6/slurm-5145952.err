@@ -1,0 +1,10 @@
+module: loading 'gaussian/g09-D01'
+module: unloading 'python/3.9.0'
+module: loading 'python/3.9.0'
+Traceback (most recent call last):
+  File "/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/872-36-6/create_best_li.py", line 110, in <module>
+    myfile.write('opt before gaussian energy:', doc_to_energy[min_energy_file])
+TypeError: TextIOWrapper.write() takes exactly one argument (2 given)
+/var/spool/slurmd/job5145952/slurm_script: line 40: cd: opt_inp: No such file or directory
+/var/spool/slurmd/job5145952/slurm_script: line 43: inp.txt: No such file or directory
+grep: opt_inp/out.txt: No such file or directory

@@ -1,0 +1,18 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 5145968
+##  Job Name : additives
+##  Nodelist : node1620
+##      CPUs : 8
+##   Mem/CPU : 2048 MB
+## Directory : /gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/872-36-6
+##   Job Started : Mon May 16 18:02:33 EDT 2022
+###############################################################################
+Mon May 16 18:02:33 EDT 2022
+/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/872-36-6
+given filepaths: ['/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/872-36-6/inp0/out.txt', '/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/872-36-6/inp1/out.txt', '/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/872-36-6/inp2/out.txt', '/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/872-36-6/inp3/out.txt', '/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/872-36-6/inp4/out.txt', '/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/872-36-6/inp5/out.txt', '/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/872-36-6/inp6/out.txt']
+/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/872-36-6
+Mon May 16 18:02:33 EDT 2022
+Mon May 16 18:02:33 EDT 2022
+#Free energy of the reduced complex:
+001 00:00:00
+Mon May 16 18:02:33 EDT 2022

@@ -1,0 +1,37 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 5144546
+##  Job Name : additives
+##  Nodelist : node1319
+##      CPUs : 8
+##   Mem/CPU : 2048 MB
+## Directory : /gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7
+##   Job Started : Mon May 16 16:20:49 EDT 2022
+###############################################################################
+Mon May 16 16:20:49 EDT 2022
+/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp0
+Mon May 16 16:20:49 EDT 2022
+Mon May 16 16:26:35 EDT 2022
+/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp1
+Mon May 16 16:26:35 EDT 2022
+Mon May 16 16:57:08 EDT 2022
+/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp2
+Mon May 16 16:57:08 EDT 2022
+Mon May 16 17:07:16 EDT 2022
+/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp3
+Mon May 16 17:07:16 EDT 2022
+Mon May 16 17:33:27 EDT 2022
+/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp4
+Mon May 16 17:33:27 EDT 2022
+Mon May 16 17:41:46 EDT 2022
+/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp5
+Mon May 16 17:41:46 EDT 2022
+Mon May 16 17:53:23 EDT 2022
+/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7/inp6
+Mon May 16 17:53:23 EDT 2022
+Mon May 16 18:16:59 EDT 2022
+/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/4427-96-7
+Mon May 16 18:16:59 EDT 2022
+Mon May 16 18:16:59 EDT 2022
+#Free energy of the reduced complex:
+001 01:56:10
+Mon May 16 18:16:59 EDT 2022

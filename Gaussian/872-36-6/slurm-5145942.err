@@ -1,0 +1,9 @@
+module: loading 'gaussian/g09-D01'
+module: unloading 'python/3.9.0'
+module: loading 'python/3.9.0'
+cp: cannot stat ‘../../create_best_Li.py’: No such file or directory
+python3: can't open file '/gpfs/data/yqi27/cgu13/CHEM1560Q/Gaussian/872-36-6/create_best_li.py': [Errno 2] No such file or directory
+rm: cannot remove ‘create_best_li.py’: No such file or directory
+/var/spool/slurmd/job5145942/slurm_script: line 40: cd: opt_inp: No such file or directory
+/var/spool/slurmd/job5145942/slurm_script: line 43: inp.txt: No such file or directory
+grep: opt_inp/out.txt: No such file or directory
