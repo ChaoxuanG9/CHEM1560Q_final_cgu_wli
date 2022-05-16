@@ -1,3 +1,0 @@
-module: loading 'gaussian/g09-D01'
-module: unloading 'python/3.9.0'
-module: loading 'python/3.9.0'
